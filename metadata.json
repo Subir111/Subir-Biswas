@@ -1,0 +1,6 @@
+{
+  "name": "Subir",
+  "description": "Connect, share and discover with Subir. A modern, vibrant social media platform with feed, stories, reels, chats, and creator tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
